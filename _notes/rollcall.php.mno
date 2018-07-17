@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:classId;datatype:int,name:calssName;datatype:string,name:teacherId;datatype:int,name:classDate;datatype:string,name:classStart;datatype:time,name:classTime;datatype:real,name:classNote;datatype:string,name:classCount;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:callrollId;datatype:int,name:classId;datatype:string,name:studentId;datatype:string,name:studentName;datatype:string,name:rollcall;datatype:int,name:rollcallCount;datatype:int,name:studentId;datatype:int,name:studentNumber;datatype:int,name:studentName;datatype:string,name:studentEmail;datatype:string,name:studentTel;datatype:blob,name:studentParents;datatype:string,name:studentNote;datatype:string,name:studentMON;datatype:int,name:studentTUE;datatype:int,name:studentWED;datatype:int,name:studentTHU;datatype:int,name:studentFRI;datatype:int,name:studentSAT;datatype:int,name:studentGrade;datatype:int,name:studentBuilddate;datatype:date,name:studentJoindate;datatype:date" />
+	<infoitem key="UD_Recordset3" value="name:teacherName;datatype:string,name:teacherLevel;datatype:string,name:teacherId;datatype:int" />
+	<infoitem key="UD_Recordset4" value="name:teacherLevel;datatype:string" />
+	<infoitem key="UD_Recordset5" value="name:historyclassId;datatype:int,name:classId;datatype:int,name:teacherId;datatype:int,name:teacherName;datatype:string,name:historyclassDate;datatype:date,name:historyCount;datatype:int" />
+	<infoitem key="UD_Recordset6" value="name:historyclassId;datatype:int,name:classId;datatype:int,name:teacherId;datatype:int,name:teacherName;datatype:string,name:historyclassDate;datatype:date,name:historyCount;datatype:int" />
+	<infoitem key="UD_Recordset7" value="name:closeddataId;datatype:int,name:classId;datatype:int,name:teacherId;datatype:int,name:closedDate;datatype:date" />
+</info>

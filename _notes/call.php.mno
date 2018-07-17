@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset2" value="name:callrollId;datatype:int,name:classId;datatype:string,name:studentId;datatype:string,name:rollcall;datatype:int,name:studentId;datatype:int,name:studentName;datatype:string,name:studentEmail;datatype:string,name:studentTel;datatype:string,name:studentNote;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:classId;datatype:int,name:calssName;datatype:string,name:teacherId;datatype:int,name:classDate;datatype:datetime,name:classTime;datatype:int,name:classNote;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:teacherName;datatype:string,name:teacherLevel;datatype:string" />
+	<infoitem key="UD_Recordset4" value="name:studentName;datatype:string,name:rollcall;datatype:int,name:studentId;datatype:string,name:callrollId;datatype:int" />
+</info>
